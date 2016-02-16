@@ -31,8 +31,8 @@
 		
 			.box3{
 				
-				width: 271px;
-				height: 301px;
+				width: 270px;
+				height: 300px;
 				margin: 0px;
 				padding: 0px;
 				border: solid 1px black;
@@ -43,10 +43,10 @@
 				
 			div {
 				
-				background: cyan;
+				
 				}	
 				
-			img {
+			img {	
 					
 				
 				}
@@ -71,7 +71,8 @@
 			li{
 				
 				list-style: none;
-				
+				width: 270px;
+				height: 50px;
 				
 				}
 	</STYLE>
